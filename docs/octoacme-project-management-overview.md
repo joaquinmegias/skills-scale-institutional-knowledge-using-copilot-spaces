@@ -20,6 +20,18 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Extended Roles
+
+In addition to core roles, the following personas are commonly involved:
+
+- UX Designer
+- Scrum Master
+- QA Engineer
+- Business Analyst
+- Customer Success Manager
+
+See `octoacme-roles-and-personas.md` for full details.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
@@ -44,3 +56,6 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+
+## Roles and Personas
+Refer to `octoacme-roles-and-personas.md` for a complete list of roles and responsibilities across the project lifecycle.
